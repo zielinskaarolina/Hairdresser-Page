@@ -51,3 +51,22 @@
   margin-top: 3rem;
   width: 100vw;
 }
+
+.main-h1{
+  font-family: 'MonteCarlo', cursive;
+  font-weight: lighter;
+  border-bottom: 5px solid #D9D9D9;
+  margin-bottom: 2rem;
+  font-size: 2.8rem;
+}
+
+footer{
+  background-color: #D0D0D0;
+  height: 6vh;
+  width: 100vw;
+  color: #9C9595;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: .6rem;
+}

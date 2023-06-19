@@ -1,0 +1,23 @@
+.contact {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin:  4rem;
+}
+
+.social-media {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1rem;
+	width: 80vw;
+}
+
+.social-media p {
+	font-size: 0.8rem;
+	color: #9c9595;
+}
+
+.contact .phones-image{
+    margin-top: 3rem;
+}

@@ -3,11 +3,13 @@ import Image from './Image';
 import Plus from './Plus';
 import AboutMe from './AboutMe';
 import Prices from './Prices';
+import Contact from './Contact';
 
 import plusData from '../data/plusData';
 import aboutMeData from '../data/aboutMeData';
 
 import HairImages1 from '../images/hairs1.png';
+import HairImages2 from '../images/hairs2.png'
 
 function App() {
 	const renderedPlus = plusData.map((plus) => {
@@ -27,6 +29,9 @@ function App() {
 			<img src={HairImages1} alt='' className='hair-image1' />
 			{renderedAboutMe}
 			<Prices/>
+			<img src={HairImages2} alt='' className='hair-image1' />
+			<Contact/>
+			<footer>2023 © Fryzjernia Justyna Kempińska</footer>
 		</div>
 	);
 }

@@ -15,12 +15,12 @@ const Prices = () => {
             color = '#F3F3F3'
         }
         return (
-            <tr style={{backgroundColor: color}}><p>{service.name}</p><p>{service.price}</p></tr>
+            <tr key={service.id} style={{backgroundColor: color}}><p>{service.name}</p><p>{service.price}</p></tr>
         ) 
     })
     return ( 
         <div className="prices">
-            <h1>Cennik</h1>
+            <h1 className='main-h1'>Cennik</h1>
             <table>
                 <td>
                     {renderedServices}
