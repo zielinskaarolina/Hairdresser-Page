@@ -14,7 +14,7 @@ const Main = () => {
 				/>
 			</div>
 			<div className='main-view'>
-				<img src={logo} alt='' />
+				<img src={logo} alt=''/>
 				<div className='text'>
 					<h1>Justyna Kempińska</h1>
 					<p>FRYZJERNIA</p>

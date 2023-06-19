@@ -26,9 +26,15 @@
   font-family: 'MonteCarlo', cursive;
   color: #5d6468;
   font-weight: lighter;
+  font-size: 2.3rem;
 }
 
 .main .text p{
   color: #AEBBC5;
   font-family: 'Gideon Roman', cursive;
+  font-size: 1.5rem;
+}
+
+.main-view img{
+  width: 8rem;
 }
