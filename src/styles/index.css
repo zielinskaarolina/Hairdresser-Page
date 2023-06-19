@@ -38,3 +38,9 @@
 .main-view img{
   width: 8rem;
 }
+
+.image-container{
+  height: 50vh;
+  background-image: url('../images/salon.png');
+  background-repeat: no-repeat;
+}
