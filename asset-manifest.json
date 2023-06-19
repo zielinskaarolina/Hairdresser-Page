@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hairdresser-Page/static/css/main.f1beb93a.css",
+    "main.js": "/Hairdresser-Page/static/js/main.367ee3fc.js",
+    "static/media/logo.png": "/Hairdresser-Page/static/media/logo.a53b9466e27570cd32b8.png",
+    "index.html": "/Hairdresser-Page/index.html",
+    "main.f1beb93a.css.map": "/Hairdresser-Page/static/css/main.f1beb93a.css.map",
+    "main.367ee3fc.js.map": "/Hairdresser-Page/static/js/main.367ee3fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1beb93a.css",
+    "static/js/main.367ee3fc.js"
+  ]
+}
