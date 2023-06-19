@@ -44,4 +44,10 @@
   width: 100vw;
   background-image: url('../images/salon.png');
   background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hair-image1{
+  margin-top: 3rem;
+  width: 100vw;
 }
