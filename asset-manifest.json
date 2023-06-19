@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Hairdresser-Page/static/css/main.419842fd.css",
-    "main.js": "/Hairdresser-Page/static/js/main.228eecb0.js",
+    "main.css": "/Hairdresser-Page/static/css/main.71064ae9.css",
+    "main.js": "/Hairdresser-Page/static/js/main.1195e59d.js",
     "static/media/salon.png": "/Hairdresser-Page/static/media/salon.51ded3f6fe1faa52fc35.png",
     "static/media/hairs1.png": "/Hairdresser-Page/static/media/hairs1.ceb8c6653807bfebfd20.png",
+    "static/media/hairs2.png": "/Hairdresser-Page/static/media/hairs2.cde088cb05b49eecf0fb.png",
+    "static/media/phone.png": "/Hairdresser-Page/static/media/phone.7b7241c13a8ee8fc2ae8.png",
     "static/media/logo.png": "/Hairdresser-Page/static/media/logo.a53b9466e27570cd32b8.png",
     "index.html": "/Hairdresser-Page/index.html",
-    "main.419842fd.css.map": "/Hairdresser-Page/static/css/main.419842fd.css.map",
-    "main.228eecb0.js.map": "/Hairdresser-Page/static/js/main.228eecb0.js.map"
+    "main.71064ae9.css.map": "/Hairdresser-Page/static/css/main.71064ae9.css.map",
+    "main.1195e59d.js.map": "/Hairdresser-Page/static/js/main.1195e59d.js.map"
   },
   "entrypoints": [
-    "static/css/main.419842fd.css",
-    "static/js/main.228eecb0.js"
+    "static/css/main.71064ae9.css",
+    "static/js/main.1195e59d.js"
   ]
 }
