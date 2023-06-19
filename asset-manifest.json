@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/Hairdresser-Page/static/css/main.db449443.css",
-    "main.js": "/Hairdresser-Page/static/js/main.878e91fa.js",
+    "main.css": "/Hairdresser-Page/static/css/main.419842fd.css",
+    "main.js": "/Hairdresser-Page/static/js/main.228eecb0.js",
     "static/media/salon.png": "/Hairdresser-Page/static/media/salon.51ded3f6fe1faa52fc35.png",
+    "static/media/hairs1.png": "/Hairdresser-Page/static/media/hairs1.ceb8c6653807bfebfd20.png",
     "static/media/logo.png": "/Hairdresser-Page/static/media/logo.a53b9466e27570cd32b8.png",
     "index.html": "/Hairdresser-Page/index.html",
-    "main.db449443.css.map": "/Hairdresser-Page/static/css/main.db449443.css.map",
-    "main.878e91fa.js.map": "/Hairdresser-Page/static/js/main.878e91fa.js.map"
+    "main.419842fd.css.map": "/Hairdresser-Page/static/css/main.419842fd.css.map",
+    "main.228eecb0.js.map": "/Hairdresser-Page/static/js/main.228eecb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.db449443.css",
-    "static/js/main.878e91fa.js"
+    "static/css/main.419842fd.css",
+    "static/js/main.228eecb0.js"
   ]
 }
